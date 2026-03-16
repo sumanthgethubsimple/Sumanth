@@ -1,0 +1,5 @@
+{
+  "name": "PriceMatch AI",
+  "description": "A product comparison tool that finds the best prices and ratings across multiple e-commerce platforms using a product link or name.",
+  "requestFramePermissions": []
+}
